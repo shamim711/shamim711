@@ -1,0 +1,10 @@
+User_Name_Xpath = ap_customer_name
+User_Email_Xpath = ap_email
+User_Password_Xpath = ap_password
+User_RePassword_Xpath = ap_password_check
+Create_User_Submit_Xpath = continue
+Search_Box_Xpath = twotabsearchtextbox
+Search_Submit_Xpath = nav-search-submit-button
+SignIn_Password_Xpath = ap_password
+SignIn_Password_Submit_Xpath = signInSubmit
+AddtoCart_Xpath = add-to-cart-button

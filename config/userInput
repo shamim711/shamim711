@@ -1,0 +1,10 @@
+Create_User_Name = Shamim Ahmed
+Create_User_Email = pickmysolar@gmail.com
+Create_User_Password = pickmysolar
+SignIn_User_Phone = 9820123456
+SignIn_User_Pass = pickmysolar
+Product_To_Search = New Apple iPhone 12 (128GB) - Blue
+Negative_Scenario_Text1 = Enter your name
+Negative_Scenario_Text2 = Enter your email
+Negative_Scenario_Text3 = Enter your mobile number
+Negative_Scenario_Text4 = Enter your password
